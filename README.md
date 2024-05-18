@@ -1,7 +1,12 @@
 # Menu
 
+[Demo Link] ![view](https://nikmahla.github.io/Menu/)
 
-⚡️ One Page Layout
-⚡️ Valid HTML5 & CSS
-⚡️ Developed by Fatemeh Nikookar
-To view the demo: click here ![view](https://nikmahla.github.io/Menu/)
+Developed by Fatemeh Nikookar
+
+Created - 2024-5-18
+
+Technologies Used - Html , css
+
+Role - Frontend
+
