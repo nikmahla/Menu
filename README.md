@@ -1,6 +1,6 @@
 # Menu
 
-[Demo Link] ![view](https://nikmahla.github.io/Menu/)
+[Demo Link] (https://nikmahla.github.io/Menu/)
 
 Developed by Fatemeh Nikookar
 
