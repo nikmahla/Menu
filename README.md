@@ -6,7 +6,7 @@ Developed by Fatemeh Nikookar
 
 Created - 2024-5-18
 
-Technologies Used - Html , css
+Technologies Used - Html , Css
 
 Role - Frontend
 
